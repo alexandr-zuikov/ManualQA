@@ -13,7 +13,7 @@
 </div> </ol>
 
 
-
+ - :seedling: Дипломированный инженер по тестированию.
 - :telescope: Я не боюсь фразы: "У нас нет ТЗ, но нужно ВСЁ протестировать!". Люблю backend-тестирование, хотя и frontend мне не чужд.
 - :zap: Уверен, что могу быть вам полезен, так как имею:
  <ol>- Знание методологий тестирования, владение техникой тест-дизайна;</ol>
@@ -25,8 +25,6 @@
    <ol><div> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;</div>  </ol>
 
-- :seedling:
-<p>Дипломированный инженер по тестированию.</p>
 Имею аналитический склад ума, люблю разбираться в сути задачи, искать первопричины явлений. Внимателен к деталям. Педантичен. 
 Считаю, что эти два качества самые главные в тестировании.
 Способен эффективно работать, как в команде, так и самостоятельно. С готовностью делюсь опытом и оказываю поддержку коллегам.
