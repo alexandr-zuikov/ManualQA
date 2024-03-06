@@ -1,7 +1,7 @@
 # Портфолио: Инженер по тестированию / QA Engineer
 ### :man_technologist: Обо мне:
 
-Добрый день! Меня зовут Александр, я Junior Manual QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32">
+Добрый день! Меня зовут Александр, я Manual QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32">
 
 <ol><div id="badges">
   <a href="https://drive.google.com/file/d/1eID3CgU4IpMJuq3GevYzx8tGa7z-CMxO/view?usp=sharing">
@@ -18,17 +18,20 @@
 - :zap: Уверен, что могу быть вам полезен, так как имею:
  <ol>- Знание методологий тестирования, владение техникой тест-дизайна;</ol>
  <ol>- Понимание основных процессов тестирования;</ol>
- <ol>- Опыт работы с инструментами: Terminal, DevTools, Jira, Qase.io, Postman, SOAP UI, Charles;</ol>
+ <ol>- Опыт работы с инструментами: Terminal, DevTools, Jira, Qase.io, Postman, AndroidStudio, Charles;</ol>
  <ol>- Опыт в тестировании API;</ol>
  <ol>- Опыт работы с SQL:</ol>
   
    <ol><div> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;</div>  </ol>
 
-- :seedling: Легко нахожу общий язык с коллегами, умею слушать и слышать собеседника, быстро адаптируюсь к новому окружению и умею подстраиваться под ситуацию.
-Быстро обучаем: стремительно усваиваю новую информацию и затем активно использую её в работе. Хотел бы повышать свой уровень экспертизы в IT.
-Имею аналитический склад ума, люблю разбираться в сути задачи, искать первопричины явлений. Внимателен к деталям. Педантичен.
+- :seedling:
+<p>Дипломированный инженер по тестированию.</p>
+Имею аналитический склад ума, люблю разбираться в сути задачи, искать первопричины явлений. Внимателен к деталям. Педантичен. 
+Считаю, что эти два качества самые главные в тестировании.
 Способен эффективно работать, как в команде, так и самостоятельно. С готовностью делюсь опытом и оказываю поддержку коллегам.
+Легко нахожу общий язык с коллегами, умею слушать и слышать собеседника, быстро адаптируюсь к новому окружению и умею подстраиваться под ситуацию. Не токсичный :)
+Быстро обучаем: стремительно усваиваю новую информацию и затем активно использую её в работе. Хотел бы повышать свой уровень экспертизы в IT.
 
 - :mailbox: Мне можно написать:
  <ol><div id="badges">
@@ -47,27 +50,31 @@
 <div> 
  <img src="https://img.shields.io/badge/Jira-blue" title="Jira" alt="Jira" width="44" height="30"/>&nbsp;
   <img src="https://img.shields.io/badge/qase.io-purple" title="qase.io" alt="qase.io" width="80" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/OpenProject-blue" title="OpenProject" alt="OpenProject" width="100" height="30"/>&nbsp;
   <img src="https://img.shields.io/badge/DevTools-grey" title="DevTools" alt="DevTools" width="80" height="30"/>&nbsp;
  <img src="https://img.shields.io/badge/cURL-black" title="cURL" alt="cURL" width="45" height="30"/>&nbsp;
   <img src="https://img.shields.io/badge/Postman-orange" title="Postman" alt="Postman" width="80" height="30"/>&nbsp;
  <img src="https://img.shields.io/badge/Mockoon-black" title="Mockoon" alt="Mockoon" width="80" height="30"/>&nbsp;
  <img src="https://img.shields.io/badge/Swagger-green" title="Swagger" alt="Swagger" width="80" height="30"/>&nbsp;
  <img src="https://img.shields.io/badge/SoapUI-yellow" title="SoapUI" alt="SoapUI" width="80" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/AndroidStudio-green" title="AndroidStudio" alt="AndroidStudio" width="100" height="30"/>&nbsp;
    <img src="https://img.shields.io/badge/Charles-white" title="Charles" alt="Charles" width="80" height="30"/>&nbsp;
  <img src="https://img.shields.io/badge/JMeter-red" title="JMeter" alt="JMeter" width="60" height="30"/>&nbsp;
  <img src="https://img.shields.io/badge/pgAdmin-grey" title="pgAdmin" alt="pgAdmin" width="80" height="30"/>&nbsp;
- <img src="https://img.shields.io/badge/DBeaver-white" title="pgAdmin" alt="pgAdmin" width="80" height="30"/>&nbsp;
+ <img src="https://img.shields.io/badge/DBeaver-white" title="DBeaver" alt="DBeaver" width="80" height="30"/>&nbsp;
  <img src="https://img.shields.io/badge/Git-black" title="Git" alt="Git" width="40" height="30"/>&nbsp;
   <img src="https://img.shields.io/badge/Miro-yellow" title="Miro" alt="Miro" width="44" height="30"/>&nbsp;
  <img src="https://img.shields.io/badge/Trello-blue" title="Trello" alt="Trello" width="60" height="30"/>&nbsp;
  <img src="https://img.shields.io/badge/ClickUp-pink" title="ClickUp" alt="ClickUp" width="80" height="30"/>&nbsp;
 <img src="https://img.shields.io/badge/Confluence-blue" title="Confluence" alt="Confluence" width="100" height="30"/>&nbsp;
 
- 
 </div> 
 
+## Диплом
+<img src="https://github.com/alexandr-zuikov/certificates/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20QA%20%D0%97%D1%83%D0%B8%CC%86%D0%BA%D0%BE%D0%B2.jpg?raw=true" alt="Diplom" width="966" height="667"/>&nbsp;
+
 ## Сертификаты
-<img src="https://github.com/alexandr-zuikov/certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%22Stepik.%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B8%CC%86%20%D1%82%D1%80%D0%B5%D0%BD%D0%B0%D0%B6%D0%B5%D1%80%20%D0%BF%D0%BE%20SQL%22.png" alt="StepikSQL" width="322" height="222"/>&nbsp;<img src="https://github.com/alexandr-zuikov/certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20Postman.png?raw=true" alt="StepikPostman" width="322" height="222"/>&nbsp; <img src="https://github.com/alexandr-zuikov/certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D0%BE%20%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8%20%D1%81%D1%82%D0%B0%D0%B6%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%B2%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B5%20%D0%94%D0%B6%D1%83%D0%BD%D1%8B.png" alt="Juniors" width="322" height="222"/>&nbsp; 
+<img src="https://github.com/alexandr-zuikov/certificates/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20QA%20%D0%97%D1%83%D0%B8%CC%86%D0%BA%D0%BE%D0%B2.jpg?raw=true" alt="Diplom" width="322" height="222"/>&nbsp;<img src="https://github.com/alexandr-zuikov/certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%22Stepik.%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B8%CC%86%20%D1%82%D1%80%D0%B5%D0%BD%D0%B0%D0%B6%D0%B5%D1%80%20%D0%BF%D0%BE%20SQL%22.png" alt="StepikSQL" width="322" height="222"/>&nbsp;<img src="https://github.com/alexandr-zuikov/certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20Postman.png?raw=true" alt="StepikPostman" width="322" height="222"/>&nbsp; <img src="https://github.com/alexandr-zuikov/certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D0%BE%20%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8%20%D1%81%D1%82%D0%B0%D0%B6%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%B2%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B5%20%D0%94%D0%B6%D1%83%D0%BD%D1%8B.png" alt="Juniors" width="322" height="222"/>&nbsp; 
 <p><img src="https://github.com/alexandr-zuikov/certificates/blob/main/Certificate%20%D0%9D%D0%B5%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0.png" alt="Juniors" width="322" height="500"/>&nbsp;</p>
 
 
@@ -84,11 +91,7 @@
 
 <p>Основные требования: Цель данного cервиса - обеспечить быстрое и лёгкое решение маркетинг-задач по ведению бизнеса с использованием ИИ для создания текстов, графики и других задач (Chat GPT, Midjourney, Stable Diffusion и другие нейросети с предустановленными настройками)</p>
 
-<p>Под капотом: 
-<p>front: TypeScript, Vue.js</p>
-<p>back: NestJS</p>
-<p>база данных: MySQL</p>
-<p>Состав команды: Team Lead QA + 8 Junior QA + Test Manager;</p>
+<p>Состав команды: Team Lead QA + 6 Junior QA + Test Manager;</p>
 <p>В приоритете были реальные устройства, а так же эмулятор BrowserStack;</p>
 <p>Отвечал за десктопную и мобильную версию сайта в самых популярных браузерах: Google Chrome, Safari, Opera и Firefox;</p>
 <p>Чек-листы проверок составлял в Miro;</p>
